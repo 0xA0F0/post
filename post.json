@@ -1,0 +1,15 @@
+{
+    "all": [
+      {
+        "link": "/post/1.md",
+        "title": "Полезные ссылки",
+        "image": "https://i.ibb.co/M5yx4bv/link.jpg" 
+    },
+
+          {
+            "link": "/post/2.md",
+            "title": "Citations",
+            "image": "https://i.ibb.co/BPJWKPc/br.jpg"
+          }
+    ]
+  }  
