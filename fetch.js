@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const postElement = document.createElement('div');
             postElement.classList.add('post');
             postElement.innerHTML = `
-                <a href="/${post.link}">
+                <a href="./${post.link}">
                     <img src="${post.image}" alt="${post.title}">
                     <h3>${post.title}</h3>
                 </a>
